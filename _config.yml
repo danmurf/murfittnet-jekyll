@@ -22,7 +22,7 @@ title: Murfitt.net
 email: dan@murfitt.net
 description: "Dan Murfitt's personal website and blog, covering web development, technology and general geeky lifestyle."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://murfitt.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "hhttps://danmurf.github.io/murfittnet-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danmurf
 github_username: danmurf
 
