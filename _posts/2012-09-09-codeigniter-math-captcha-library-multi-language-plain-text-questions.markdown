@@ -25,7 +25,7 @@ Or mix it up:
 
 Answers can be enforced to either number only, word only, or either.
 
-##Where can I find it?
+## Where can I find it?
 
 Head over to GitHub to view/download the latest development version and start testing: 
 
@@ -33,11 +33,11 @@ Head over to GitHub to view/download the latest development version and start te
 
 Any comments and suggestions welcome :)
 
-##Installation
+## Installation
 
 The folder structure should match the CodeIgniter folder structure.
 
-###Quick setup
+### Quick setup
 
 *   Copy the `application/libraries/mathcaptcha_library.php` file to `application/libraries/`
 *   Copy the `application/language/english/mathcaptcha_lang.php` to `application/language/english/`
@@ -100,7 +100,7 @@ function _check_math_captcha($str)
 
 *   And that's it!
 
-##Configuration options
+## Configuration options
 
 There are some configuration options which you can pass to the library in an associative array when you `$this->mathcaptcha->init($config)`:
 
