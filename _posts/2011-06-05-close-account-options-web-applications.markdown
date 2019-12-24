@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  " 'Close Account' options for web applications"
-date:   2011-06-05 16:22:00 +0000
-tags: [ Web Development ]
-permalink: blog/close-account-options-web-applications
+identifier: "blog103"
+title: "'Close Account' options for web applications"
+date: "2011-06-05 16:22:00 +0000"
+tags: [ "Web Development" ]
+permalink: "blog/close-account-options-web-applications"
 ---
 <a href="http://www.flickr.com/photos/22741426@N05/2373060918/" title="Exit by lansakit, on Flickr"><img alt="Exit" src="http://farm4.static.flickr.com/3032/2373060918_235f41ab78_m.jpg" style="width: 240px; height: 111px; float: right; margin: 10px;"></a>It's very rare that I come across a web app which allows me to close my account. Granted, it's not a feature you want to encourage people to use but if people want to stop using your app then they'll probably just abandon the account anyway. From a user's perspective I like to feel in control so being able to close an account, even if I don't chose to do so, can be quite reassuring. However, I think there are also some advantages for developers and stakeholders to benefit from by implementing a 'close account' feature.
 

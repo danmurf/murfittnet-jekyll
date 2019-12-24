@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  " Book Review: CodeIgniter 1.7 Professional Development by Adam Griffiths (Packt Publishing)"
-date:   2010-08-15 21:14:00 +0000
-tags: [ PHP, CodeIgniter ]
-permalink: blog/book-review-codeigniter-17-professional-development-adam-griffiths-packt-publish
+identifier: "blog93"
+title: "Book Review: CodeIgniter 1.7 Professional Development by Adam Griffiths (Packt Publishing)"
+date: "2010-08-15 21:14:00 +0000"
+tags: [ "PHP", "CodeIgniter" ]
+permalink: "blog/book-review-codeigniter-17-professional-development-adam-griffiths-packt-publish"
 ---
 [CodeIgniter 1.7 Professional Development by Adam Griffiths](http://www.packtpub.com/codeigniter-1-7-professional-development/book/mid/0405109at6rt?utm_source=murfitt.net&utm_medium=affiliate&utm_content=blog&utm_campaign=mdb_003216) is a great introduction to CodeIgniter - and the Model-View-Controller (MVC) design pattern in general - for intermediate and advanced PHP developers. I was asked to write a review of this book by Packt Publishing and this is now my third CodeIgniter specific book which I've studied. I’ve been working with CodeIgniter on several projects for over two years now so I’ve become quite familiar with the framework, but I’m always interested to see how other people approach problems and use the libraries available. There’re always a few hidden gems which are waiting to be discovered!
 

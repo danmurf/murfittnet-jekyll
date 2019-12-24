@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Hello 2015! Hopes, resolutions and things to look forward to for the new year"
-date:   2014-12-31 16:26:00 +0000
-tags: [ New Year ]
-permalink: blog/hello-2015-hopes-resolutions-and-things-look-forward-new-year
+identifier: "blog120"
+title: "Hello 2015! Hopes, resolutions and things to look forward to for the new year"
+date: "2014-12-31 16:26:00 +0000"
+tags: [ "New Year" ]
+permalink: "blog/hello-2015-hopes-resolutions-and-things-look-forward-new-year"
 ---
 For those of you that know me, you'll know that I'd have a lot to say about 2014. It's been a strange year. I won't go into it in this blog post, but instead I'm going to look forward and welcome 2015 with wide eyes and big open arms. Come in and make yourself at home, 2015! So, here are a few things I'd like to look forward to in the new year.
 

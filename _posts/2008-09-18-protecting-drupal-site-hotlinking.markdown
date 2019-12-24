@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  " Protecting a Drupal site from hotlinking"
-date:   2008-09-18 20:40:00 +0000
-tags: [ Web Development, Drupal ]
-permalink: blog/protecting-drupal-site-hotlinking
+identifier: "blog65"
+title: "Protecting a Drupal site from hotlinking"
+date: "2008-09-18 20:40:00 +0000"
+tags: [ "Web Development", "Drupal" ]
+permalink: "blog/protecting-drupal-site-hotlinking"
 ---
 ## What is hotlinking?
 
