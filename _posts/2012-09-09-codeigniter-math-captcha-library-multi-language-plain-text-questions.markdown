@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "CodeIgniter Math CAPTCHA library, with multi-language plain text questions"
-date:   2012-09-09 14:02:00 +0000
-tags: [ Security, PHP, CodeIgniter ]
-permalink: blog/codeigniter-math-captcha-library-multi-language-plain-text-questions
+identifier: "blog108"
+title: "CodeIgniter Math CAPTCHA library, with multi-language plain text questions"
+date: "2012-09-09 14:02:00 +0000"
+tags: [ "Security", "PHP", "CodeIgniter" ]
+permalink: "blog/codeigniter-math-captcha-library-multi-language-plain-text-questions"
 ---
 <a href="http://www.flickr.com/photos/96khz/3127953038/" title="Robot by Sebastianlund, on Flickr"><img src="http://farm4.staticflickr.com/3085/3127953038_e8484f17b8_m.jpg" style="height:240px; width:172px; float:right; margin:5px 20px;" alt="Robot"></a>
 
