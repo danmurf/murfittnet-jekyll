@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Free subversion repository hosting accounts"
-date:   2009-05-17 14:17:00 +0000
-tags: [ Web Development ]
-permalink: blog/free-subversion-repository-hosting-accounts
+identifier: "blog74"
+title: "Free subversion repository hosting accounts"
+date: "2009-05-17 14:17:00 +0000"
+tags: [ "Web Development" ]
+permalink: "blog/free-subversion-repository-hosting-accounts"
 ---
 I've come across a few subversion hosting services which offer free accounts so I thought I'd share the links. Most of these seem to offer a limited free account and a range of paid accounts. If you're working with subversion a lot and you come to rely on them then you may want to upgrade in the future - at least you can try them out first for free. However, if you're developing one or two projects on your own you may be happy to stick with the free account. These details are for the free accounts only, and most offer a lot more for the paid account (for example, SSL access, more users, repositories, etc.).
 

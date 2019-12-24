@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Foursquare Vs. Gowalla"
-date:   2010-08-20 23:08:00 +0000
-tags: [ Foursquare, Gowalla, Social Networking ]
-permalink: blog/foursquare-vs-gowalla
+identifier: "blog94"
+title: "Foursquare Vs. Gowalla"
+date: "2010-08-20 23:08:00 +0000"
+tags: [ "Foursquare", "Gowalla", "Social Networking" ]
+permalink: "blog/foursquare-vs-gowalla"
 ---
 With [recent news about Facebook’s new ‘Places’ feature](http://blog.facebook.com/blog.php?post=418175202130) it looks like location based social networking could become the next big thing over the next couple of years. In case you can’t wait for this to be fully rolled out and you want to give one of the established location based social networks a try, here’s some background info.
 

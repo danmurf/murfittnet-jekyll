@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "XAMPP and mod_rewrite (getting clean URLs to work)"
-date:   2007-10-04 18:50:00 +0000
-tags: [ Web Development, Apache ]
-permalink: blog/xampp-and-modrewrite-getting-clean-urls-work
+identifier: "blog55"
+title: "XAMPP and mod_rewrite (getting clean URLs to work)"
+date: "2007-10-04 18:50:00 +0000"
+tags: [ "Web Development", "Apache" ]
+permalink: "blog/xampp-and-modrewrite-getting-clean-urls-work"
 ---
 If you're using a CMS or blog app, like Drupal or Wordpress (even if you're not) chances are you'll probably want to enable clean URLs (sometimes called search engine friendly URLs). This cool little feature uses an Apache module called mod_rewrite, and if you're developing your site using XAMPP this is disabled by default (possibly for security reasons).
 

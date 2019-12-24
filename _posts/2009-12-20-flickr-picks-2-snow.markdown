@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Flickr picks #2: Snow"
-date:   2009-12-20 15:00:00 +0000
-tags: [ Flickr Picks ]
-permalink: blog/flickr-picks-2-snow
+identifier: "blog82"
+title: "Flickr picks #2: Snow"
+date: "2009-12-20 15:00:00 +0000"
+tags: [ "Flickr Picks" ]
+permalink: "blog/flickr-picks-2-snow"
 ---
 We've had a lot of snow over the past few days making for some beautiful, bright snow photos.
 

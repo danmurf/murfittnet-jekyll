@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "CodeIgniter 1.7 by Jose Argudo Blanco and David Upton"
-date:   2009-12-22 20:10:00 +0000
-tags: [ Web Development, PHP, CodeIgniter, Web, MySQL ]
-permalink: blog/codeigniter-17-jose-argudo-blanco-and-david-upton
+identifier: "blog83"
+title: "CodeIgniter 1.7 by Jose Argudo Blanco and David Upton"
+date: "2009-12-22 20:10:00 +0000"
+tags: [ "Web Development", "PHP", "CodeIgniter", "Web", "MySQL" ]
+permalink: "blog/codeigniter-17-jose-argudo-blanco-and-david-upton"
 ---
 <a rel="nofollow" href="http://www.packtpub.com/improve-coding-productivity-with-codeigniter-1-7?utm_source=murfitt.net&utm_medium=bookrev&utm_content=blog&utm_campaign=mdb_001828"><img height="123" width="100" alt="CodeIgniter 1.7" style="margin: 10px; float: right;" src="/uploads/1847199488.png"></a>I was recently sent a copy of a book from Packt Publishing to read and review called CodeIgniter 1.7 by Jose Argudo Blanco and David Upton. I'll be interested to see how the book compares to what I've learnt so far about CodeIgniter (>1 years experience CodeIgniter and >4 years php) and see what else it can offer, especially in terms of planning and managing application projects. The description on the Packt Publishing website says:
 

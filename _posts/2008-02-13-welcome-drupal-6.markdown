@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome Drupal 6"
-date:   2008-02-13 22:20:00 +0000
-tags: [ Web Development, Drupal ]
-permalink: blog/welcome-drupal-6
+identifier: "blog61"
+title: "Welcome Drupal 6"
+date: "2008-02-13 22:20:00 +0000"
+tags: [ "Web Development", "Drupal" ]
+permalink: "blog/welcome-drupal-6"
 ---
 Drupal 6 [was released](http://drupal.org/drupal-6.0) today! After having a play with the beta and release candidates...well, I don't have to say; this really is a phenomenal release! Here are some of my favourite new features which I'm looking forward to using:
 

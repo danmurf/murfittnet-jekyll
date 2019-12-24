@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "First flight for the Flexifoil Buzz"
-date:   2008-05-05 20:25:00 +0000
-tags: [ Flight, Kites ]
-permalink: blog/first-flight-flexifoil-buzz
+identifier: "blog63"
+title: "First flight for the Flexifoil Buzz"
+date: "2008-05-05 20:25:00 +0000"
+tags: [ "Flight", "Kites" ]
+permalink: "blog/first-flight-flexifoil-buzz"
 ---
 Took my little Flexifoil Buzz (Petrol) out for a fly today. Pretty cool kite actually. It was a little smaller than I had imagined it, but it's very responsive even under light winds, and very nippy once the wind picks up.
 

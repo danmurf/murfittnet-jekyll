@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "'PHP Nature' missing from 'Project Natures' in Aptana Studio 2.0"
-date:   2010-01-13 22:50:00 +0000
-tags: [ Web Development, PHP, Aptana ]
-permalink: blog/php-nature-missing-project-natures-aptana-studio-20
+identifier: "blog86"
+title: "'PHP Nature' missing from 'Project Natures' in Aptana Studio 2.0"
+date: "2010-01-13 22:50:00 +0000"
+tags: [ "Web Development", "PHP", "Aptana" ]
+permalink: "blog/php-nature-missing-project-natures-aptana-studio-20"
 ---
 For some reason, even though I have the PHP Development Tools (PDT) installed in Aptana Studio (2.0), I'm not able to select 'PHP nature' in the 'Project natures' of an imported project. I can start a new PHP Project which will have the 'PHP nature' selected as primary nature, but this doesn't even appear as an option in imported projects. The only two natures that are available are 'Remote Nature' and 'Web Nature'. The 'PHP nature' adds some really useful functions, like grouping my @todos into Aptana's Tasks view and also other handy things like auto-completing PHP docblocks.
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Email access becomes slow when lots of messages are left on the server"
-date:   2008-01-27 15:14:00 +0000
-tags: [ Email ]
-permalink: blog/email-access-becomes-slow-when-lots-messages-are-left-server
+identifier: "blog59"
+title: "Email access becomes slow when lots of messages are left on the server"
+date: "2008-01-27 15:14:00 +0000"
+tags: [ "Email" ]
+permalink: "blog/email-access-becomes-slow-when-lots-messages-are-left-server"
 ---
 I noticed recently that if you're using POP with leave mail on server (LMOS) enabled, authenticating and downloading new messages can become progressively slower. So much so that the email client can even time out, leaving the mailbox locked so you can't even log in again for a while.
 

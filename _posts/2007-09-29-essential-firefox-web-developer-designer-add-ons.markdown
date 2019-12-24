@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Essential Firefox web developer / designer add-ons"
-date:   2007-09-29 15:06:00 +0000
-tags: [ Web Development, Web Design, (X)HTML, CSS, Add-ons, Plug-ins ]
-permalink: blog/essential-firefox-web-developer-designer-add-ons
+identifier: "blog54"
+title: "Essential Firefox web developer / designer add-ons"
+date: "2007-09-29 15:06:00 +0000"
+tags: [ "Web Development", "Web Design", "(X)HTML", "CSS", "Add-ons", "Plug-ins" ]
+permalink: "blog/essential-firefox-web-developer-designer-add-ons"
 ---
 I've been taking a few Firefox add-ons for granted, so here's a little nod to some excellent add-ons which have made my life easier. I'm not going to list 50, simply because I've found either some do the same thing, or I don't end up using them as much as I thought. So here they are:
 

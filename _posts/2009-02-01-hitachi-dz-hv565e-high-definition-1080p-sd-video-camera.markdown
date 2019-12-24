@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Hitachi DZ-HV565E High Definition (1080p) SD Video Camera"
-date:   2009-02-01 17:26:00 +0000
-tags: [ Photography, Videos ]
-permalink: blog/hitachi-dz-hv565e-high-definition-1080p-sd-video-camera
+identifier: "blog70"
+title: "Hitachi DZ-HV565E High Definition (1080p) SD Video Camera"
+date: "2009-02-01 17:26:00 +0000"
+tags: [ "Photography", "Videos" ]
+permalink: "blog/hitachi-dz-hv565e-high-definition-1080p-sd-video-camera"
 ---
 I've been looking through some of the little HD SD-based camcorders recently and I came across the Hitachi DZ-HV565E in Argos. However, this video camera seems to be a bit of a mystery online, there just isn't much information about it, I couldn't even find any test footage on YouTube.
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Getting alt text to display without a caption using img_assist"
-date:   2007-09-04 21:58:00 +0000
-tags: [ Web Development, Web Design, Drupal, Drupal Modules ]
-permalink: blog/getting-alt-text-display-without-caption-using-imgassist
+identifier: "blog53"
+title: "Getting alt text to display without a caption using img_assist"
+date: "2007-09-04 21:58:00 +0000"
+tags: [ "Web Development", "Web Design", "Drupal", "Drupal Modules" ]
+permalink: "blog/getting-alt-text-display-without-caption-using-imgassist"
 ---
 I ran into a spot of trouble recently with img_assist, in that it only displayed alt text if there was also a caption below the image. Img_Assist takes the alt text from a combination of the title and description, and these fields are filled by default from the title and body of the image node. Although there is no real need for a caption below each image, you will almost always need alt text.
 

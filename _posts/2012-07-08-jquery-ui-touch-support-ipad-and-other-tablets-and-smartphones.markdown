@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "jQuery UI touch support for iPad and other tablets and smartphones"
-date:   2012-07-08 14:22:00 +0000
-tags: [ Web Design, User Interfaces, jQuery, jQuery UI ]
-permalink: blog/jquery-ui-touch-support-ipad-and-other-tablets-and-smartphones
+identifier: "blog106"
+title: "jQuery UI touch support for iPad and other tablets and smartphones"
+date: "2012-07-08 14:22:00 +0000"
+tags: [ "Web Design", "User Interfaces", "jQuery", "jQuery UI" ]
+permalink: "blog/jquery-ui-touch-support-ipad-and-other-tablets-and-smartphones"
 ---
 ![jQuery UI Logo](/uploads/JQuery_UI_logo_color_onwhite-300x72.png)
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "A new web design trend: Windows 8 'Metro' UI style"
-date:   2012-11-04 09:53:00 +0000
-tags: [ Web Design, Windows 8, Design Trends ]
-permalink: blog/new-webdesign-trend-windows-8-metro-ui-style
+identifier: "blog112"
+title: "A new web design trend: Windows 8 'Metro' UI style"
+date: "2012-11-04 09:53:00 +0000"
+tags: [ "Web Design", "Windows 8", "Design Trends" ]
+permalink: "blog/new-webdesign-trend-windows-8-metro-ui-style"
 ---
 It's strange how influential an operating system UI can be on web design. I remember back in 2006 everyone was using [Apple's shiny table effect](http://wickedowl.blogspot.co.uk/2006/07/creating-apples-shiny-table-effect.html) and it seems we may be about to see a wave of websites designed using [Microsoft's Windows 8 'Metro' UI style](http://www.webresourcesdepot.com/everything-you-need-to-create-windows-8-metro-ui-styled-websites/).
 

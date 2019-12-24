@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Optimising Drupal performance"
-date:   2011-03-13 10:02:00 +0000
-tags: [ Web Development, Drupal, Hosting ]
-permalink: blog/optimising-drupal-performance
+identifier: "blog99"
+title: "Optimising Drupal performance"
+date: "2011-03-13 10:02:00 +0000"
+tags: [ "Web Development", "Drupal", "Hosting" ]
+permalink: "blog/optimising-drupal-performance"
 ---
 There are a few great out of the box performance tweaks which Drupal offers to speed up page loading times and minimise server load. First of all, these tweaks wouldn't suit every site. You need to first think about how much traffic you currently get and how often our content changes. You don't necessarily have to add or amend a page for content to change; people can post comments and interact with your site in ways which change the content displayed. This will make a difference to how you chose to optimise your Drupal site performance.
 

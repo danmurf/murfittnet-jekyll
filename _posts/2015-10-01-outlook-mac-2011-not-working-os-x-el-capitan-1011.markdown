@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Outlook for Mac 2011 not working on OS X El Capitan (10.11)"
-date:   2015-10-01 20:35:00 +0000
-tags: [ Microsoft, Apple, OS X, El Capitan, Outlook ]
-permalink: blog/outlook-mac-2011-not-working-os-x-el-capitan-1011
+identifier: "blog122"
+title: "Outlook for Mac 2011 not working on OS X El Capitan (10.11)"
+date: "2015-10-01 20:35:00 +0000"
+tags: [ "Microsoft", "Apple", "OS X", "El Capitan", "Outlook" ]
+permalink: "blog/outlook-mac-2011-not-working-os-x-el-capitan-1011"
 ---
 **tl;dr - If you use Outlook for Mac and you're thinking of upgrading to OS X El Capitain, don't...yet!**
 

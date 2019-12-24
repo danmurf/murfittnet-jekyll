@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Spotify world of music"
-date:   2009-03-07 12:11:00 +0000
-tags: [ Music, Social ]
-permalink: blog/spotify-world-music
+identifier: "blog71"
+title: "Spotify world of music"
+date: "2009-03-07 12:11:00 +0000"
+tags: [ "Music", "Social" ]
+permalink: "blog/spotify-world-music"
 ---
 Spotify is an online music service which allows you, much like Last.fm, to stream music to your computer via a downloadable app.
 

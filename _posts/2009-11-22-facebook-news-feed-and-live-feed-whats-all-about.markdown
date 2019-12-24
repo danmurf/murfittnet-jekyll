@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Facebook News Feed and Live Feed. What's all this about?"
-date:   2009-11-22 10:49:00 +0000
-tags: [ Social Media, User Interfaces ]
-permalink: blog/facebook-news-feed-and-live-feed-whats-all-about
+identifier: "blog80"
+title: "Facebook News Feed and Live Feed. What's all this about?"
+date: "2009-11-22 10:49:00 +0000"
+tags: [ "Social Media", "User Interfaces" ]
+permalink: "blog/facebook-news-feed-and-live-feed-whats-all-about"
 ---
 I've been switching between Facebook's two feed modes, live feed and news feed, for a while now and up until now I didn't really know why. Facebook introduced these options a month ago and it's been confusing users ever since. So, what I've found is that by default I am shown the news feed which shows the most relevant information, but it's often out of date, sometimes by a couple of days. That's not good. Then you go to the live feed, which seems to be up to the minute but is bloated with Farm Ville and whatnot. That is also not good. The terminology "news feed" and "live feed" are also quite confusing, as you'd expect the "news feed" to be up to date and the "live feed" to be relevant.
 

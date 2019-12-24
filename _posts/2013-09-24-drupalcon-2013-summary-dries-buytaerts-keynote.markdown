@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "DrupalCon 2013: Summary of Dries Buytaert's Keynote"
-date:   2013-09-24 21:14:00 +0000
-tags: [ Drupal ]
-permalink: blog/drupalcon-2013-summary-dries-buytaerts-keynote
+identifier: "blog119"
+title: "DrupalCon 2013: Summary of Dries Buytaert's Keynote"
+date: "2013-09-24 21:14:00 +0000"
+tags: [ "Drupal" ]
+permalink: "blog/drupalcon-2013-summary-dries-buytaerts-keynote"
 ---
 DrupalCon 2013 is well underway now with Dries giving his keynote earlier today. There are lots of exciting things coming up with Drupal 8, and it’s a big change both technically and conceptually from the previous releases. I’ll attach the full keynote below, but here’s a quick summary for you speedy readers.
 

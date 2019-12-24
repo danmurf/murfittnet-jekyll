@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Atlantis silhouette during solar transit"
-date:   2009-05-16 11:30:00 +0000
-tags: [ Photography, Space ]
-permalink: blog/atlantis-silhouette-during-solar-transit
+identifier: "blog72"
+title: "Atlantis silhouette during solar transit"
+date: "2009-05-16 11:30:00 +0000"
+tags: [ "Photography", "Space" ]
+permalink: "blog/atlantis-silhouette-during-solar-transit"
 ---
 This image shows the space shuttle Atlantis in silhouette during solar transit on Tuesday 12th May 2009. Pretty cool!
 

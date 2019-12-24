@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Location based reminders"
-date:   2010-01-07 20:19:00 +0000
-tags: [ Productivity, Lifehacks ]
-permalink: blog/location-based-reminders
+identifier: "blog85"
+title: "Location based reminders"
+date: "2010-01-07 20:19:00 +0000"
+tags: [ "Productivity", "Lifehacks" ]
+permalink: "blog/location-based-reminders"
 ---
 Reminders, whether from calendars or todo lists, are typically time based, so they will remind you to perform an action at a desired time. However, I've just discovered location based reminders or 'geo-reminders' and this could possibly be my favourite life hack! When I say discovered, I actually had the idea when I got home from the supermarket having forgotten several necessities, but naturally this has already been thought of and many location based reminder apps already exist.
 

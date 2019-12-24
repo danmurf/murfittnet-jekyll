@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Sorting the garden out"
-date:   2010-09-05 18:32:00 +0000
-tags: [ Gardening ]
-permalink: blog/sorting-garden-out
+identifier: "blog95"
+title: "Sorting the garden out"
+date: "2010-09-05 18:32:00 +0000"
+tags: [ "Gardening" ]
+permalink: "blog/sorting-garden-out"
 ---
 My dad came over today to help sort our garden out. We wanted to open the end of the garden up to grow some colourful plants and maybe add a few solar lights. The end of the garden was previously segmented into smaller pieces, with a raised patch with a few shrubs and some fenced off stones.
 

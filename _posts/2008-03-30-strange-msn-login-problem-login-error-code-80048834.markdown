@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Strange MSN Login problem (Login error code 80048834)"
-date:   2008-03-30 12:40:00 +0000
-tags: [ Microsoft ]
-permalink: blog/strange-msn-login-problem-login-error-code-80048834
+identifier: "blog62"
+title: "Strange MSN Login problem (Login error code 80048834)"
+date: "2008-03-30 12:40:00 +0000"
+tags: [ "Microsoft" ]
+permalink: "blog/strange-msn-login-problem-login-error-code-80048834"
 ---
 No idea what this means, but I thought I'd post it in case anyone else was having the same problem - don't you just love spurious error codes?
 

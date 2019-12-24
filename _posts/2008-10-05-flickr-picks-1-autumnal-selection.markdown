@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Flickr Picks #1: Autumnal selection"
-date:   2008-10-05 12:46:00 +0000
-tags: [ Flickr Picks, Photography ]
-permalink: blog/flickr-picks-1-autumnal-selection
+identifier: "blog66"
+title: "Flickr Picks #1: Autumnal selection"
+date: "2008-10-05 12:46:00 +0000"
+tags: [ "Flickr Picks", "Photography" ]
+permalink: "blog/flickr-picks-1-autumnal-selection"
 ---
 Here's my first "Flickr picks" picture selection. Every now and then I'm going to pick some photos from Flickr with a particular theme. I thought some nice autumnal pictures would be a good place to start as it's one of my favourite seasons for taking pictures (winter being the other).
 

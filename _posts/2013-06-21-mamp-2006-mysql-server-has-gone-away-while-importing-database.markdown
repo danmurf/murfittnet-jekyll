@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "MAMP: \"#2006 - MySQL server has gone away\" while importing database"
-date:   2013-06-21 21:32:00 +0000
-tags: [ Drupal, MySQL, MAMP ]
-permalink: blog/mamp-2006-mysql-server-has-gone-away-while-importing-database
+identifier: "blog116"
+title: "MAMP: "#2006 - MySQL server has gone away" while importing database"
+date: "2013-06-21 21:32:00 +0000"
+tags: [ "Drupal", "MySQL", "MAMP" ]
+permalink: "blog/mamp-2006-mysql-server-has-gone-away-while-importing-database"
 ---
 I was importing a relatively large Drupal database today into MAMP (via phpmyadmin) and MySQL rudely walked off, with the following error:
 
