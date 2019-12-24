@@ -27,7 +27,7 @@ twitter_username: danmurf
 github_username: danmurf
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
