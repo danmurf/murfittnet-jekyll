@@ -10,6 +10,8 @@ permalink: "blog/codeigniter-math-captcha-library-multi-language-plain-text-ques
 
 I've just released a new Math CAPTCHA Library for CodeIgniter, which can use plain text English words for numbers and random question phrases. It's also supports multiple languages (as it uses the core language library) and both addition and multiplication. It's still in the early stages so it needs to be put through its paces, but hopefully the CodeIgniter community will find this a nice alternative to the regular image CAPTCHA or simple math CAPTCHA.
 
+<!--more-->
+
 The library comes with 5 English language phrases and English numerals, but can easily be set up to use any other language by replicating and translating the language file. Users are also encouraged to enter their own phrases (as many as you like) in order to make the CAPTCHA more random. The phrases are randomly selected. 
 
 For example:

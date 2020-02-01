@@ -8,6 +8,8 @@ permalink: "blog/optimising-drupal-performance"
 ---
 There are a few great out of the box performance tweaks which Drupal offers to speed up page loading times and minimise server load. First of all, these tweaks wouldn't suit every site. You need to first think about how much traffic you currently get and how often our content changes. You don't necessarily have to add or amend a page for content to change; people can post comments and interact with your site in ways which change the content displayed. This will make a difference to how you chose to optimise your Drupal site performance.
 
+<!--more-->
+
 When caching is enabled in Drupal (Administer > Site Configuration > Performance) your pages will be dynamically generated the first time they are hit and then subsequent visits to that page will be loaded from the stored cache. This will speed up page loading times because Drupal doesn't have to pull all of the content together from the database each time. However, new content won't be shown until the cache has expired and is regenerated. It's worth noting that cached pages are only displayed to anonymous users, so if you are testing this out and logged in to your site, you probably won't see any performance differences. In this case you will need to logout, then you will see you site's cached content.
 
 ## What is 'minimum cache lifetime'?

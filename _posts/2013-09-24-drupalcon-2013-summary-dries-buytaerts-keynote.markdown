@@ -17,6 +17,8 @@ There are six key initiatives in Drupal 8 which Dries quickly covered:
 *   Views in core
 *   Web services
 
+<!--more-->
+
 These are all designed to modernise Drupal, help people get up and running quickly and make Drupal better integrated with both third party services and the whole ‘graph’ of the web. Mobile is a big part of the new direction of Drupal so it has been rebuilt with HTML5 and will be responsive  right from install. There are some “massive improvements” to the multilingual support for Drupal and Views will also be included in core. The web services initiative aims to make Drupal into more of a platform through which you can build native apps by bringing in contextual data and a REST server.
 
 There are hundreds of new features included with Drupal 8; here are a few which Dries walked through:

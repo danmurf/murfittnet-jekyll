@@ -8,6 +8,8 @@ permalink: "blog/location-based-reminders"
 ---
 Reminders, whether from calendars or todo lists, are typically time based, so they will remind you to perform an action at a desired time. However, I've just discovered location based reminders or 'geo-reminders' and this could possibly be my favourite life hack! When I say discovered, I actually had the idea when I got home from the supermarket having forgotten several necessities, but naturally this has already been thought of and many location based reminder apps already exist.
 
+<!--more-->
+
 Location based reminders are reminders which, instead of alerting you at a set time, alert you when you enter a set location. So, you may set a reminder to 'buy more bread' for when you are next at the supermarket, or 'call John' for when you get in the office. This means you will be alerted when you are at the place where you can action the reminder. This isn't designed to replace time based reminders, but instead work along side. You could also (in theory) combine the two by setting a reminder to 'buy birthday card for Sam' when you are in town around the 5th of June.
 
 So, without further ado, here are some apps which I have found that support location based reminders:

@@ -12,6 +12,8 @@ permalink: "blog/outlook-mac-2011-not-working-os-x-el-capitan-1011"
 
 It's been an eventful day, for all the wrong reasons. Usually my Apple updates go well, but today I discovered that if you try and sync Outlook (running on El Capitan) with an Exchange server, you get a (nice,  redesigned) beachball. This is a known bug (<https://support.microsoft.com/en-us/kb/3098396>), and the official workaround at the moment is to stick to using Yosemite.
 
+<!--more-->
+
 The crash seems to kick in when Outlook tries to sync with Exchange, so if you just want to load Outlook and not receive any new email, you can probably do it by opening it and quickly setting it to offline mode. I've seen a few people mention this on the forums, but I've not personally tried it, as it's pretty useless to me in offline mode (obviously - it's email!).
 
 There are a couple of workarounds if you have already upgraded:

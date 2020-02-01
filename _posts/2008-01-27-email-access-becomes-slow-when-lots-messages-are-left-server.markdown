@@ -8,6 +8,8 @@ permalink: "blog/email-access-becomes-slow-when-lots-messages-are-left-server"
 ---
 I noticed recently that if you're using POP with leave mail on server (LMOS) enabled, authenticating and downloading new messages can become progressively slower. So much so that the email client can even time out, leaving the mailbox locked so you can't even log in again for a while.
 
+<!--more-->
+
 ## What is POP?
 
 POP stands for Post Office Protocol and it's how email clients like Outlook Express and Thunderbird are commonly configured to collect messages from a mailbox. One of the advantages of POP is that a connection to the server is only required when messages are being checked/downloaded to the email client. Once this is complete, the client can disconnect and continue to read/reply/delete messages 'offline'. Once a message has been downloaded and stored on the client a message is sent back to the server telling it to delete the message. This means the only place the message now exists is on the client, not the server. If you want to also be able to download the same message on another machine, you will need to leave the message on the server.

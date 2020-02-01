@@ -8,6 +8,8 @@ permalink: "blog/creating-immutable-objects-in-php"
 ---
 You may have seen the `\DateTimeImmutable` class being used, and wondered why is this different from the `\DateTime` class? I guess it's the same...but immutable, right? Why would I want to use an immutable object? Here's a brief overview.
 
+<!--more-->
+
 ## Why use an immutable class?
 
 In php, when you pass around an object by assigning it to a variable, you are actually creating another *reference* to that object, rather than creating another version of it.

@@ -10,6 +10,8 @@ As of Drupal 5.6 you will no longer be able to install the CMS onto a server wit
 
 >  We no longer support servers with the PHP directive register_globals set to on. Attempts to install Drupal 5.6 when register_globals is enabled will fail. Current installations will continue to function, but will display an error on administration pages and the status report.
  
+<!--more-->
+
 This check was introduced as a fix for the Cross site scripting vulnerability ([DRUPAL-SA-2008-007](http://drupal.org/node/208565)) which occurs when `register_globals` is enabled. I was upgrading my Drupal installation from 5.5 when I found out so I only suffered the error on the status report, but people running a fresh install will find they can’t go any further until they disable `register_globals`.
 
 ## What is register_globals?

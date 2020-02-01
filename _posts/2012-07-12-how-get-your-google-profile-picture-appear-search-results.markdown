@@ -8,6 +8,8 @@ permalink: "blog/how-get-your-google-profile-picture-appear-search-results"
 ---
 You may have recently noticed that lots of Google search results now show profile pictures of authors alongside the result for the page. I think this adds a nice element of trust to the link, as you can see the person who wrote the page and you can be pretty sure the content comes from a person as opposed to a content aggregator or such like. As always, there’s no exact formula to controlling the search result information, but [Google has published some advice](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=1306778) for setting this up for your blog or website.
 
+<!--more-->
+
 Here are a few quick tips:
 
 *   Have a good, clear Google+ profile picture

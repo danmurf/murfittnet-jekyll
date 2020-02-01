@@ -13,6 +13,8 @@ I've been taking a few Firefox add-ons for granted, so here's a little nod to so
 * Dummy Lipsum
 * IE Tab
 
+<!--more-->
+
 ## Firebug
 
 [Firebug Homepage](https://addons.mozilla.org/en-US/firefox/addon/1843)

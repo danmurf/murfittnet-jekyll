@@ -10,6 +10,8 @@ permalink: "blog/jquery-ui-touch-support-ipad-and-other-tablets-and-smartphones"
 
 The jQuery UI library doesn’t support touch features by default, so trying to use the slider or drag and drop on the iPad won’t work. Fortunately, all that’s required to get this working is a small hack - enter [jQuery UI Touch Punch](http://touchpunch.furf.com).
 
+<!--more-->
+
 Just include jQuery and the jQuery UI scripts on your page as per normal:
 
 ```html

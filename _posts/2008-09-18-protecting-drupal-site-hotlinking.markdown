@@ -10,6 +10,8 @@ permalink: "blog/protecting-drupal-site-hotlinking"
 
 Hotlinking, sometimes called image leeching or hot linking, is where another website embeds an image which is stored on your web host. So, for example, if you want to add an image to your website, you can upload the file to your web host then embed the image into your HTML referencing the source for the image as the location of the file on your web host. When someone accesses the HTML page where the image is embedded the file will be downloaded from your web host. If you don't protect against hotlinking, someone could embed that same image on their web page, which means that every time someone accesses their page, the image will be downloaded from your web host and drain your bandwidth. Don't do this, it's not cool and some sites see it as stealing.
 
+<!--more-->
+
 ## How do I know if someone is hotlinking to my site?
 
 Sadly, unless you go looking for this you may never know. One indicator could be that you suffer a sudden surge in bandwidth. I say bandwidth, not traffic, because stats tools such as Google Analytics may not pick this up because they only register web pages, not images. For argument's sake, I'm considering bandwidth as pure data transfer and traffic as people who are visiting your site and reading your web pages. Drupal's access statistics may also not pick this up as they will only register page hits. It may be picked up if you are using the private download method. However, people may still get around this by linking directly to the file.

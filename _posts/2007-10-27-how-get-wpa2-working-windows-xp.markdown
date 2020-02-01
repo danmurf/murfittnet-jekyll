@@ -8,6 +8,8 @@ permalink: "blog/how-get-wpa2-working-windows-xp"
 ---
 WPA2 is the latest standard in Wi-Fi security, and it's considered fully secure (for today at least). It's a good idea to run the highest level of security you can, even on a home network. I won't go into the benefits, but as far as I can see there are no reasons not to move to WPA2 - you won't even notice any difference, but your connection will be more secure.
 
+<!--more-->
+
 WPA2 isn't a standard option in Windows XP (SP2), so you'll have to download the hotfix from Microsoft:
 
 [The Wi-Fi Protected Access 2 (WPA2)/Wireless Provisioning Services Information Element (WPS IE) update for Windows XP with Service Pack 2 is available](http://support.microsoft.com/kb/893357)

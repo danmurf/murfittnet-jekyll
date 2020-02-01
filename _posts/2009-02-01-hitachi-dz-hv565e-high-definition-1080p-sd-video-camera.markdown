@@ -10,6 +10,8 @@ I've been looking through some of the little HD SD-based camcorders recently and
 
 <a href="http://www.flickr.com/photos/danmurf/3243476371/" title="Hitachi DZ-HV565E by Dan Murfitt, on Flickr"><img src="http://farm4.static.flickr.com/3368/3243476371_e162be5310.jpg" width="500" height="333" alt="Hitachi DZ-HV565E"></a>
 
+<!--more-->
+
 Anyway, I took the plunge and bought one from Argos today and so far I've been very impressed. The manual states that the camera is "exclusively available through Argos" which is probably why there isn't much information about it online. I did manage to find some information about the HV564E ([http://mackney.com/blog/2008/12/hv564e-hd-sd-video-camera.html](http://mackney.com/blog/2008/12/hv564e-hd-sd-video-camera.html)), which, apart from the back of the viewfinder, looks the same.
 
 Here's a quick run through some of the key points in the DZ-HV565E specification:
