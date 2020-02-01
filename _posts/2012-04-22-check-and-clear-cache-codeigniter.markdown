@@ -8,6 +8,8 @@ permalink: "blog/check-and-clear-cache-codeigniter"
 ---
 I decided to write an extension to the CodeIgniter core Output library as it's great for working with cache but doesn't contain any mechanisms for clearing or managing the cache.
 
+<!--more-->
+
 ## Installation
 
 Download the extension (details below) and extract the `MY_Output.php` file to your `application/core` folder. The core output library is loaded automatically so the extension should load automatically too. If you have changed the extension prefix to something other than `MY_` in your `config.php` file you will need to update the extension file appropriately.

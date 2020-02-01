@@ -10,6 +10,8 @@ Spotify is an online music service which allows you, much like Last.fm, to strea
 
 You can play individual tracks or build, share and collaborate on playlists. The free version allows you to listen to unlimited music with the occasional ad. They come up about once every 4 or 5 tracks so it's not too intrusive. You can also buy a day pass for 99p which gives you an ad free service for the day or sign up for a premium account and get unlimited ad free listening for £9.99 a month.
 
+<!--more-->
+
 So far I'm very impressed with the service. It has almost everything I want to listen to and the best bit for me is that you can build custom playlists and share them with people or collaborate and build them together.
 
 > Because music is social, Spotify allows you to share songs and playlists with friends, and even work together on collaborative playlists, Friday afternoon in the office might never be the same again! We’re music lovers like everyone else. We want to connect millions of people with their favourite songs by creating a product that people love to use. We respect creativity and believe in fairly compensating artists for their work. We’ve cleared the rights to use the music you’ll listen to in Spotify.

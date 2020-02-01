@@ -8,6 +8,8 @@ permalink: "blog/windbelt-electrical-wind-powered-generator"
 ---
 A few years ago Shawn Frayne came up with an ingenious way of generating electricity on a smaller scale than wind turbines by using vibrations rather than rotary power. His invention, called the windbelt, works by oscillating a pair of magnets through a metal coil at the end of a belt which vibrates as wind passes over it. This physical phenomenon is know as aeroelastic flutter and it's the same principle that caused the Tacoma Narrows Bridge to collapse. Prototypes have generated 40 milliwatts in 10-mph wind, making the windbelt 10 to 30 times as efficient as the best microturbines.
 
+<!--more-->
+
 ## Shawn Frayne talks about the windbelt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AMojRXK14jU" frameborder="0" allowfullscreen></iframe>

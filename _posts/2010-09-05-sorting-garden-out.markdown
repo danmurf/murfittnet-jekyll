@@ -8,6 +8,8 @@ permalink: "blog/sorting-garden-out"
 ---
 My dad came over today to help sort our garden out. We wanted to open the end of the garden up to grow some colourful plants and maybe add a few solar lights. The end of the garden was previously segmented into smaller pieces, with a raised patch with a few shrubs and some fenced off stones.
 
+<!--more-->
+
 <a href="http://www.flickr.com/photos/danmurf/4960786250/" title="End of the garden before by Dan Murfitt, on Flickr"><img alt="End of the garden before" height="500" src="http://farm5.static.flickr.com/4150/4960786250_ea0124a6e2.jpg" width="333"></a>
 
 <a href="http://www.flickr.com/photos/danmurf/4960194053/" title="End of the garden before by Dan Murfitt, on Flickr"><img alt="End of the garden before" height="333" src="http://farm5.static.flickr.com/4086/4960194053_c07c2c55fd.jpg" width="500"></a>

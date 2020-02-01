@@ -10,6 +10,8 @@ permalink: "blog/book-review-instant-e-commerce-opencart-build-shop-instant-mura
 
 This book is for web developers and designers looking at setting up an online store. You don’t need any previous experience of OpenCart to follow the walkthroughs in the book, but you will need to be reasonably confident (or at least willing to have a bash) at downloading and setting up a web application on a server or a local development environment (such as WAMP for MS Windows or MAMP for Mac).
 
+<!--more-->
+
 The book covers a range of simple and intermediate tasks, from installing and setting up OpenCart on your server to managing customers and orders. The author takes you through setting up, running and managing an online musical instrument store. It’s presented very much in a structured tutorial way, with easy to follow steps and plenty of screenshots (on pretty much every page) showing what to expect, so even if you’re not sitting in front of your screen you can still experience the process. Some of the areas covered include:
 
 *   Installation and setup

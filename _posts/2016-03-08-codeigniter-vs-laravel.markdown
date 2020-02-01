@@ -8,6 +8,8 @@ permalink: "blog/codeigniter-vs-laravel"
 ---
 It's not always easy to give a definite winner with these sorts of comparisons, as depends what your requirements and preferences are. So, here are a few areas worth thinking about when weighing up CodeIgniter against Laravel.
 
+<!--more-->
+
 ## Speed to learn
 CodeIgniter is incredibly quick to learn; mainly because it's so easy to set up. You can just download the CodeIgniter package, unzip it to your WAMP or MAMP web root, and you're good to go. I think one of the main reasons CodeIgniter grew in popularity so quickly was because of how easy it was to install and learn. You also don't need to use the command line to develop with CodeIgniter.
 

@@ -10,6 +10,8 @@ Here's my first "Flickr picks" picture selection. Every now and then I'm going t
 
 The great thing about autumn is not only the colours from the leaves but also the moody weather - rain one minute, sun the next - it really creates a stunning atmosphere.
 
+<!--more-->
+
 [![Double Bows by Nicholas_T, on Flickr](http://farm1.static.flickr.com/86/281820290_6779f72291.jpg)](http://www.flickr.com/photos/nicholas_t/281820290/)
 
 Double Bows<br/>

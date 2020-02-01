@@ -8,6 +8,8 @@ permalink: "blog/fighting-blog-spam"
 ---
 I've noticed a recent influx of blog spam which seem, to some degree, relevant to the content it's posted on. I think spammers are composing comments targeted to specific subject areas and then searching the web for content on that subject so that when they post the comment it appears at first glance to be genuine. Of course the most telling part is the totally unrelated link to men's watches or postal degrees which seem somewhat out of place in a comment on a php web development framework. Nevertheless, if you're not careful the comments can slip through the net and appear on your blog. The other issue which has become more of a problem lately is the spammer's ability to evade CAPTCHA challenges. I've increased the level of noise and distortion for the CAPTCHA challenge on this blog but some still get through. It's as if there is a person actually typing in a response to the challenge, in which it won't be of much help. There are a few ways in which you can help fight, reduce and manage blog spam, because let's face it - it's not going to stop entirely. So let's have a look at some quick first pointers.
 
+<!--more-->
+
 ## Filter out HTML 'a' tags
 
 HTML 'a' tags can be used to mask the location of links and there's really no need for people in comments to use them. Instead, use an automatic filter which converts http:// strings into clickable links. This way people can see exactly where they are going to go if they click a link, and spammers can't hide links behind text relevant to the subject of the comment. Also publish the fact you are doing this as it may act as a small deterrent.

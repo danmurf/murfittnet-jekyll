@@ -12,6 +12,8 @@ It's that wonderful time again! CodeIgniter 1.7.0 has been released, so it's tim
 
 Upgrading looks fairly straight forward - here are some notable changes ([http://codeigniter.com/user_guide/changelog.html](http://codeigniter.com/user_guide/changelog.html)):
 
+<!--more-->
+
 ## Sessions
 
 The Sessions class has been updated so that any custom data being saved gets stored to the database rather than the session cookie (assuming you are using a database to store session data), permitting much more data to be saved.

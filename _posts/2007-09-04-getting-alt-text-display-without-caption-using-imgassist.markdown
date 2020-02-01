@@ -15,6 +15,8 @@ The problem was that Drupal wasn't wrapping the caption in a span, which meant n
 <strong>Sunset</strong>
 ```
 
+<!--more-->
+
 It turns out that the HTML filter was set to a lower weight than the inline images filter, so the span was being removed when the page was being processed. To fix this, simply set the HTML filter to something lighter (I set mine to -10) and you'll find the caption is now wrapped in a span. This setting is found in Administer > Site Configuration > Input Formats > Configure Filtered HTML (Or whatever filter you're using) > Rearrange tab. Now you should find that the page displays the caption to accompany the alt text, like this:
 
 ```html
