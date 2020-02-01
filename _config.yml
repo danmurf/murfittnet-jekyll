@@ -41,8 +41,8 @@ plugins:
   - jekyll-feed
 
 header_pages: 
-  - about.markdown
   - blog/index.html
+  - about.markdown
   - contact.markdown
 
 author: Dan Murfitt
