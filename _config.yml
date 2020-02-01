@@ -23,11 +23,17 @@ email: dan@murfitt.net
 description: "Dan Murfitt's personal website and blog, covering web development, technology and general geeky lifestyle."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jekyll.murfitt.net" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: danmurf
 github_username: danmurf
+instagram: danmurf
+linkedin: danmurfitt
+rss: RSS
+
 paginate: 5
 paginate_path: "/blog/page:num/"
 excerpt_separator: "<!--more-->"
+google_analytics: UA-1427722-1
 
 # Build settings
 theme: minima
@@ -38,6 +44,8 @@ header_pages:
   - about.markdown
   - blog/index.html
   - contact.markdown
+
+author: Dan Murfitt
 
 # Exclude from processing.
 # The following items will not be processed, by default.
