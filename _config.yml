@@ -38,6 +38,7 @@ google_analytics: UA-1427722-1
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 header_pages: 
   - blog/index.html
