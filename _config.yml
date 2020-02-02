@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Dan Murfitt
-email: dan@murfitt.net
 description: "Dan Murfitt's personal website and blog, covering web development, technology and general geeky lifestyle."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jekyll.murfitt.net" # the base hostname & protocol for your site, e.g. http://example.com
@@ -55,14 +54,18 @@ author: Dan Murfitt
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
 #   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CNAME
+  - yarn.lock
+  - README.md
+  - package.json
