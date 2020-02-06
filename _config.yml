@@ -43,7 +43,7 @@ plugins:
 header_pages: 
   - blog/index.html
   - about.markdown
-  - contact.markdown
+  - contact.html
 
 author: Dan Murfitt
 
