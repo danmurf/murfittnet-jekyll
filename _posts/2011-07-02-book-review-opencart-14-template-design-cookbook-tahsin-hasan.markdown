@@ -6,7 +6,7 @@ date: "2011-07-02 13:03:00 +0000"
 tags: [ "Web Development", "Web Design", "OpenCart", "Book Reviews" ]
 permalink: "blog/book-review-opencart-14-template-design-cookbook-tahsin-hasan"
 ---
-<a href="http://link.packtpub.com/Cm452D"><img alt="OpenCart 1.4 Template Design Cookbook thumbnail" src="/uploads/OpenCart1.4TemplateDesignCookbook_thumb_0.jpg" style="width: 145px; height: 180px; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; float: right; "></a>OpenCart isn’t a system I’ve used before but Packt Publishing asked me to review OpenCart 1.4 Template Design Cookbook by Tahsin Hasan for them so I thought it’d be a good opportunity to learn more about an ecommerce shopping cart system. I spend a lot of time working on PHP/MySQL applications, including Drupal and CodeIgniter, but I haven’t used OpenCart before, so I’m coming to this book and application completely new.
+OpenCart isn’t a system I’ve used before but Packt Publishing asked me to review OpenCart 1.4 Template Design Cookbook by Tahsin Hasan for them so I thought it’d be a good opportunity to learn more about an ecommerce shopping cart system. I spend a lot of time working on PHP/MySQL applications, including Drupal and CodeIgniter, but I haven’t used OpenCart before, so I’m coming to this book and application completely new.
 
 <!--more-->
 

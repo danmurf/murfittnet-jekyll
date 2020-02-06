@@ -14,15 +14,9 @@ WPA2 isn't a standard option in Windows XP (SP2), so you'll have to download the
 
 [The Wi-Fi Protected Access 2 (WPA2)/Wireless Provisioning Services Information Element (WPS IE) update for Windows XP with Service Pack 2 is available](http://support.microsoft.com/kb/893357)
 
-This will run a small hotfix:
-
-![Hotfix](/uploads/wpa2hotfix.png)
-
 As usual, make sure all your data is backed up - you don't want to suffer the irony of data loss due to trying to make something more secure.
 
 Once the hotfix has been installed, you will need to restart, and you should now find that your connection's security is now WPA2.
-
-![WPA2](/uploads/wpa2.png)
 
 When I ran this I was moving from WPA to WPA2, so the connection along with the password was carried across. However, if you're running WEP you will need to enter the security key when setting up the connection.
 

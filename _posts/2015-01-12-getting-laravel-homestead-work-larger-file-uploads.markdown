@@ -6,7 +6,7 @@ date: "2015-01-12 22:11:00 +0000"
 tags: [ "PHP", "Laravel", "Homestead", "Vagrant", "Nginx" ]
 permalink: "blog/getting-laravel-homestead-work-larger-file-uploads"
 ---
-<img src="/uploads/laravel-four-icon_0.png" style="width:200px; float:right;margin-left:20px; margin-bottom:20px;" alt="Laravel"/> I've been working on a Laravel project which uses relatively large file uploads (about 30MB - 120MB). My development environment is [Laravel Homestead](http://laravel.com/docs/4.2/homestead) - a great, pre-packaged Vagrant box for Laravel development. If you haven't heard of this I highly recommend you check it out - it's a great way to get up and running with Laravel, but it doesn't seem to play well for larger file uploads through forms (over about 5MB). My forms were either hanging or returning an nginx 'too large' error. Here are some of the settings which I've had to tweak to get Homestead working nicely with larger uploads.
+I've been working on a Laravel project which uses relatively large file uploads (about 30MB - 120MB). My development environment is [Laravel Homestead](http://laravel.com/docs/4.2/homestead) - a great, pre-packaged Vagrant box for Laravel development. If you haven't heard of this I highly recommend you check it out - it's a great way to get up and running with Laravel, but it doesn't seem to play well for larger file uploads through forms (over about 5MB). My forms were either hanging or returning an nginx 'too large' error. Here are some of the settings which I've had to tweak to get Homestead working nicely with larger uploads.
 
 <!--more-->
 
