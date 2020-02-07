@@ -14,6 +14,6 @@ I've always liked using this blog as a way to learn new frameworks or CMSs. Not 
 
 ## Jekyll
 
-Jekyll is a static site generator. This just means that the whole site output is generated in one go, rather than dynamically. From a hosting perspective, this has some real advantages. It's much cheaper to host, as you only need to how HTML and static assets (no php, node, databases, etc.). Naturally, this means things are a lot simpler and cheaper from a maintenance perspective too. My Symfony blog was only costing about £10 a month, but still, it's not free. Jekyll, on the other hand, can be hosted for free using Github pages.
+Jekyll is a static site generator. This just means that the whole site output is generated in one go, rather than dynamically. From a hosting perspective, this has some real advantages. It's much cheaper to host, as you only need to host HTML and static assets (no php, node, databases, etc.). Naturally, this means things are a lot simpler and cheaper from a maintenance perspective too. My Symfony blog was only costing about £10 a month, but still, it's not free. Jekyll, on the other hand, can be hosted for free using Github pages.
 
 If you're interested in finding out more, [here's more information about Jekyll and Github pages](https://jekyllrb.com/docs/github-pages/), and [here is the source code](https://github.com/danmurf/murfittnet-jekyll) for this website.
