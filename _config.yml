@@ -35,7 +35,7 @@ excerpt_separator: "<!--more-->"
 google_analytics: UA-1427722-1
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-sitemap
