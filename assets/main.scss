@@ -144,3 +144,19 @@ footer.site-footer {
         vertical-align: text-top;
     }
 }
+
+#home-container {
+    margin-top: 70px;
+    
+    .intro {
+        font-size: 3rem;
+        line-height: 4.4rem;
+        word-spacing: 0.2rem;
+        color: #575757;
+    }
+
+    .next {
+        display:block;
+        font-size: 2rem;
+    }
+}
