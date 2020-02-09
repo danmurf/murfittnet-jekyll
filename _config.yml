@@ -25,8 +25,7 @@ url: "https://murfitt.net" # the base hostname & protocol for your site, e.g. ht
 
 twitter_username: danmurf
 github_username: danmurf
-instagram: danmurf
-linkedin: danmurfitt
+linkedin_username: danmurfitt
 rss: RSS
 
 paginate: 5
