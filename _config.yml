@@ -19,14 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Dan Murfitt
-description: "Personal website and blog, covering web development, technology and general geeky lifestyle."
+description: "Software engineering, web development and technology"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://murfitt.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: danmurf
 github_username: danmurf
-instagram: danmurf
-linkedin: danmurfitt
+linkedin_username: danmurfitt
 rss: RSS
 
 paginate: 5
