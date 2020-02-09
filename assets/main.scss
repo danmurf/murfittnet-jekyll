@@ -1,15 +1,138 @@
 ---
 ---
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);@import url(https://fonts.googleapis.com/css?family=Istok+Web:700|Lora:400,700i|Pacifico);@charset "UTF-8";
+/** Customisable Minima Elements **/
+$brand-color: #556e86; 
+$base-font-family: "Lora", serif;
+// $base-font-weight
+// $base-font-size
+// $base-line-height
+// $small-font-size
+// $text-color
+// $spacing-unit
 
 @import "minima";
 
-.post-excerpt {
+html {
+    background-color: #4CA2CD;
+}
+
+h1, h2, h3, h4 {
+    color: #3a3d35;
+    font-family: 'Istok Web', sans-serif;
+    word-spacing: -0.2rem;
+}
+
+ul.post-list li.post-list-item {
     margin-bottom: 35px;
     border-bottom: 1px solid lightgray;
+
+    h2 {
+        padding:0;
+        margin:0;
+        line-height: 2.4rem;
+        a.post-link {
+            font-size: 2.1rem;
+        }
+    }
+
+    h2 a.post-link:hover {
+        text-decoration: none;
+    }
+
+    p.published-on {
+        padding:0;
+        margin:0;
+        font-family: 'Istok Web', sans-serif;
+        font-size: 1.1rem;
+        font-weight: lighter;
+        color: #b6b6b6;
+    }
+
+    header {
+        margin-bottom:20px;
+    }
+
+    footer {
+        margin-top: 20px;
+    }
+}
+
+.page-heading {
+    font-size: 2.4rem;
+    line-height: 1;
+    margin: 10px 0 2px 0;
+    padding: 0;
+}
+
+.page-header {
+    margin-bottom: 30px;
 }
 
 .post {
-    .published-on {
-        color: #999999;
+    .post-title {
+        font-size: 2.4rem;
+        line-height: 1.1;
+        margin:10px 0 2px 0;
+        padding:0;
+    }
+
+    .dt-published {
+        font-family: 'Istok Web', sans-serif;
+        font-size: 1.2rem;
+        font-weight: lighter;
+        color: #b6b6b6;
+    }
+}
+
+a.site-title {
+    font-family: 'Pacifico', cursive;
+    font-size: 2.2em;
+    color: #FFFFFF !important;
+}
+
+header.site-header {
+    a, .site-nav .page-link {
+        color: #fff;
+    }
+
+    .site-nav .page-link {
+        font-size: 1.2rem;
+    }
+
+    a:hover {
+        text-decoration: none;
+    }
+
+    padding: 20px 0;
+}
+
+.site-header {
+    background-image: linear-gradient(-180deg, #4CA2CD 2%, #67B26F 92%);
+    border: none;
+    padding: 10px 0;
+}
+@media screen and (max-width: 600px) {
+    .site-nav {
+        background-image: linear-gradient(-180deg, #4CA2CD 2%, #67B26F 92%);
+        margin-top:20px;
+    }
+}
+
+footer.site-footer {
+    background-image: linear-gradient(0deg, #4CA2CD 0%, #67B26F 100%);
+    padding: 40px 0px;
+    color: #fff;
+    p, a, li, li a {
+        color: #fff;
+    }
+
+    .svg-icon {
+        width: 16px;
+        height: 16px;
+        display: inline-block;
+        fill: #fff;
+        padding-right: 5px;
+        vertical-align: text-top;
     }
 }
