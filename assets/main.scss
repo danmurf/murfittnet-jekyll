@@ -5,9 +5,9 @@
 $brand-color: #556e86; 
 $base-font-family: "Lora", serif;
 // $base-font-weight
-// $base-font-size
+$base-font-size: 1.1em;
 // $base-line-height
-// $small-font-size
+// $small-font-size: 1.5em;
 // $text-color
 // $spacing-unit
 
@@ -92,8 +92,9 @@ ul.post-list li.post-list-item {
 
 a.site-title {
     font-family: 'Pacifico', cursive;
-    font-size: 2.2em;
+    font-size: 2em;
     color: #FFFFFF !important;
+    line-height: 1.8em;
 }
 
 header.site-header {
@@ -125,6 +126,17 @@ header.site-header {
     }
 }
 
+.page-content {
+    .svg-icon {
+        width: 16px;
+        height: 16px;
+        display: inline-block;
+        padding-right: 5px;
+        padding-top: 4px;
+        vertical-align: text-top;
+    }
+}
+
 footer.site-footer {
     background-image: linear-gradient(0deg, #4CA2CD 0%, #67B26F 100%);
     padding: 40px 0px;
@@ -132,7 +144,22 @@ footer.site-footer {
     p, a, li, li a {
         color: #fff;
         text-decoration: none;
-        font-weight: bolder;
+    }
+
+    ul li {
+        margin-bottom: 3px;
+    }
+
+    ul.social-media-list li {
+        padding: 0px;
+    }
+
+    ul li a {
+        color: #d3e9d6;
+    }
+
+    a:hover {
+        text-decoration: none !important;
     }
 
     .svg-icon {
@@ -141,6 +168,7 @@ footer.site-footer {
         display: inline-block;
         fill: #fff;
         padding-right: 5px;
+        padding-top: 4px;
         vertical-align: text-top;
     }
 }
