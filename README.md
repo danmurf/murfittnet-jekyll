@@ -1,5 +1,7 @@
 # murfittnet-jekyll
 
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=danmurf/murfittnet-jekyll)](https://dependabot.com)
+
 This repository contains the Jekyll code for my personal website, http://murfitt.net
 
 ## Setup
