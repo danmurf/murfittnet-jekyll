@@ -46,6 +46,8 @@ header_pages:
 
 author: Dan Murfitt
 
+exclude: ["Gemfile.lock", "node_modules"]
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
