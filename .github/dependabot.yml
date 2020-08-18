@@ -4,13 +4,8 @@ updates:
   directory: "/"
   schedule:
     interval: daily
-    time: "08:00"
+    time: "07:00"
     timezone: Europe/London
   open-pull-requests-limit: 10
   reviewers:
   - danmurf
-  ignore:
-  - dependency-name: tzinfo
-    versions:
-    - ">= 2.0.a"
-    - "< 2.1"
