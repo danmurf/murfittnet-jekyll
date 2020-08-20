@@ -38,6 +38,9 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - amp-jekyll
+
+ampdir: amp
 
 header_pages: 
   - blog/index.html
