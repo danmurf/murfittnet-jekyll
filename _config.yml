@@ -48,6 +48,17 @@ author: Dan Murfitt
 
 exclude: ["Gemfile.lock", "node_modules"]
 
+permalink: /blog/:title/
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      tags: []
+      permalink:
+    posts:
+      tags: []
+      permalink:
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
