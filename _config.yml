@@ -54,6 +54,7 @@ jekyll_compose:
   default_front_matter:
     drafts:
       tags: []
+      permalink:
     posts:
       tags: []
       permalink:
