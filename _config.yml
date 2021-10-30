@@ -54,10 +54,8 @@ jekyll_compose:
   default_front_matter:
     drafts:
       tags: []
-      permalink:
     posts:
       tags: []
-      permalink:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
